@@ -1,0 +1,15 @@
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\bin\Debug\net7.0\TestBed.ConsoleApp.exe
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\bin\Debug\net7.0\TestBed.ConsoleApp.deps.json
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\bin\Debug\net7.0\TestBed.ConsoleApp.runtimeconfig.json
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\bin\Debug\net7.0\TestBed.ConsoleApp.dll
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\bin\Debug\net7.0\TestBed.ConsoleApp.pdb
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.csproj.AssemblyReference.cache
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.AssemblyInfoInputs.cache
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.AssemblyInfo.cs
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.dll
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\refint\TestBed.ConsoleApp.dll
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.pdb
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\TestBed.ConsoleApp.genruntimeconfig.cache
+D:\AlphaLojix\GIT\ProjectGumption\Training\PDProrgram\TestBed.ConsoleApp\obj\Debug\net7.0\ref\TestBed.ConsoleApp.dll
